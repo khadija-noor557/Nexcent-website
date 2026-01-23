@@ -15,3 +15,7 @@
 .text-green{
     color: var(--primaryColor);
 }
+
+.footer-color{
+    background-color: #263238 !important;
+}
